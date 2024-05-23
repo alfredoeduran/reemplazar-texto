@@ -3,7 +3,7 @@
 Plugin Name: Reemplazar Texto
 Description: Reemplaza la palabra "noche" por "persona" y "por noche" por "por persona" en todo el sitio.
 Version: 1.1
-Author: Tu Nombre
+Author: AlfredDuran
 */
 
 function reemplazar_texto_noche_persona($content) {
